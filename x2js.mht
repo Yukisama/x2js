@@ -1,0 +1,1684 @@
+From: <Saved by Mozilla 5.0 (Windows)>
+Subject: x2js - XML <=> JSon Javascript convert/mapping Library - Google
+ Project Hosting
+Date: Tue, 01 Dec 2015 10:50:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_4AA92EB5.D65F84F9"
+X-MAF-Information: Produced By MAF V4.0b4
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/p/x2js/
+
+<!DOCTYPE html><html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8">
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+ <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+=20
+ <meta name=3D"ROBOTS" content=3D"NOARCHIVE">
+=20
+ <link rel=3D"icon" type=3D"image/vnd.microsoft.icon" href=3D"https://ssl.g=
+static.com/codesite/ph/images/phosting.ico">
+=20
+=20
+ <script async=3D"" src=3D"urn:snapshot-4F973DA1:https://apis.google.com/_/=
+scs/apps-static/_/js/k=3Doz.gapi.zh_TW.WSSCmKMZI-4.O/m=3Dplusone/rt=3Dj/sv=
+=3D1/d=3D1/ed=3D1/am=3DEQ/rs=3DAGLTcCNfuCkfDzay1Rkyq8vQrPQMJKBRuQ/t=3Dzcms/=
+cb=3Dgapi.loaded_0"></script><script gapi_processed=3D"true" src=3D"urn:sna=
+pshot-D38F766E:https://apis.google.com/js/plusone.js" async=3D"" type=3D"te=
+xt/javascript"></script><script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script><script src=3D"urn:snapshot-8AD20C2C:https://ssl.google-analyti=
+cs.com/ga.js" async=3D"" type=3D"text/javascript"></script>
+=20
+=20
+ <title>
+ x2js -
+=20
+=20
+ XML &lt;=3D&gt; JSon Javascript convert/mapping Library - Google Project=
+ Hosting
+ </title>
+ <link type=3D"text/css" rel=3D"stylesheet" href=3D"urn:snapshot-1FBA7E62:h=
+ttps://ssl.gstatic.com/codesite/ph/5825124916300507488/css/core.css">
+=20
+ <link type=3D"text/css" rel=3D"stylesheet" href=3D"urn:snapshot-CAE597D2:h=
+ttps://ssl.gstatic.com/codesite/ph/5825124916300507488/css/ph_detail.css">
+=20
+=20
+=20
+=20
+<!--[if IE]>
+ <link type=3D"text/css" rel=3D"stylesheet" href=3D"https://ssl.gstatic.com=
+/codesite/ph/5825124916300507488/css/d_ie.css" >
+<![endif]-->
+ <style type=3D"text/css"><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+.psicon-container { min-width: 24px; }
+
+--></style>
+</head>
+<body class=3D"t1">
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+<div class=3D"headbg">
+
+ <div id=3D"gaia">
+=20
+
+ <span>
+=20
+=20
+ <a href=3D"#" id=3D"projects-dropdown" onclick=3D""><u>My favorites</u> <s=
+mall>=E2=96=BC</small></a>
+ | <a href=3D"https://www.google.com/accounts/ServiceLogin?service=3Dcode&a=
+mp;ltmpl=3Dphosting&amp;continue=3Dhttps%3A%2F%2Fcode.google.com%2Fp%2Fx2js=
+%2F&amp;followup=3Dhttps%3A%2F%2Fcode.google.com%2Fp%2Fx2js%2F" onclick=3D"=
+"><u>Sign in</u></a>
+=20
+ </span>
+
+ </div>
+
+ <div class=3D"gbh" style=3D"left: 0pt;"></div>
+ <div class=3D"gbh" style=3D"right: 0pt;"></div>
+=20
+=20
+ <div style=3D"height: 1px"></div>
+<!--[if lte IE 7]>
+<div style=3D"text-align:center;">
+Your version of Internet Explorer is not supported. Try a browser that
+contributes to open source, such as <a href=3D"http://www.firefox.com">Fire=
+fox</a>,
+<a href=3D"http://www.google.com/chrome">Google Chrome</a>, or
+<a href=3D"http://code.google.com/chrome/chromeframe/">Google Chrome Frame<=
+/a>.
+</div>
+<![endif]-->
+
+
+
+ <table style=3D"padding:0px; margin: 0px 0px 10px 0px; width:100%" itemsco=
+pe=3D"" itemtype=3D"http://schema.org/CreativeWork" cellpadding=3D"0" cells=
+pacing=3D"0">
+ <tbody><tr style=3D"height: 58px;">
+=20
+=20
+=20
+ <td id=3D"plogo">
+ <link itemprop=3D"url" href=3D"https://code.google.com/p/x2js">
+ <a href=3D"#">
+=20
+ <img src=3D"https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png" al=
+t=3D"Logo" itemprop=3D"image">
+=20
+ </a>
+ </td>
+=20
+ <td style=3D"padding-left: 0.5em">
+=20
+ <div id=3D"pname">
+ <a href=3D"#"><span itemprop=3D"name">x2js</span></a>
+ </div>
+=20
+ <div id=3D"psum">
+ <a id=3D"project_summary_link" href=3D"#"><span itemprop=3D"description">X=
+ML &lt;=3D&gt; JSon Javascript convert/mapping Library</span></a>
+=20
+ </div>
+=20
+=20
+ </td>
+ <td style=3D"white-space:nowrap;text-align:right; vertical-align:bottom;">
+=20
+ <form action=3D"https://code.google.com/hosting/search">
+ <input size=3D"30" name=3D"q" type=3D"text">
+=20
+ <input name=3D"projectsearch" value=3D"Search projects" type=3D"submit">
+ </form>
+=20
+ </td></tr>
+ </tbody></table>
+
+</div>
+
+=20
+<div id=3D"mt" class=3D"gtb">=20
+ <a href=3D"#" class=3D"tab active">Project=C2=A0Home</a>
+=20
+=20
+=20
+=20
+ <a href=3D"https://code.google.com/p/x2js/downloads/list" class=3D"tab ">D=
+ownloads</a>
+=20
+=20
+=20
+=20
+=20
+ <a href=3D"https://code.google.com/p/x2js/w/list" class=3D"tab ">Wiki</a>
+=20
+=20
+=20
+=20
+=20
+ <a href=3D"https://code.google.com/p/x2js/issues/list" class=3D"tab ">Issu=
+es</a>
+=20
+=20
+=20
+=20
+=20
+ <a href=3D"https://code.google.com/p/x2js/source/checkout" class=3D"tab ">=
+Source</a>
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+ <a href=3D"https://code.google.com/export-to-github/export?project=3Dx2js">
+ <button>Export to GitHub</button>
+=20
+ </a>
+=20
+=20
+ <div class=3D"gtbc"></div>
+</div>
+
+=20
+ <div style=3D"font-weight: bold; color: #c00; margin-top: 5px; margin-left=
+: 13px;">
+ READ-ONLY: This project has been <a href=3D"https://code.google.com/archiv=
+e/p/x2js">archived</a>. For more information see <a href=3D"https://code.go=
+ogle.com/p/support/wiki/ReadOnlyTransition">this post</a>.
+ </div>
+=20
+
+<table class=3D"st" align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+ <tbody><tr>
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+ <td class=3D"subt">
+ <div class=3D"st1">
+ <div class=3D"isf">
+ <span class=3D"inst1">
+ <a href=3D"#">Summary</a>
+ </span>
+=20
+=20
+ =C2=A0
+ <span class=3D"inst3">
+ <a href=3D"https://code.google.com/p/x2js/people/list">People</a>
+ </span>
+=20
+=20
+ </div>
+</div>
+
+ </td>
+=20
+=20
+ <td class=3D"bevel-right" align=3D"right" valign=3D"top"></td>
+ </tr>
+</tbody></table>
+
+
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+<div id=3D"maincol">
+
+=20
+
+
+
+
+
+<table width=3D"100%">
+ <tbody><tr class=3D"pscontent">
+ <td class=3D"pscolumnl">
+=20
+ <div class=3D"phead">Project Information</div>
+=20
+=20
+=20
+ <ul class=3D"pslist">
+=20
+ <li class=3D"psmeta">
+ <a href=3D"https://code.google.com/p/x2js/feeds">Project feeds</a>
+ </li>
+ <li class=3D"psgap">
+=20
+=20
+=20
+ </li><li class=3D"psmeta"><b>Code license</b></li>
+ <li class=3D"psmeta">
+ <a href=3D"http://www.apache.org/licenses/LICENSE-2.0" rel=3D"nofollow">Ap=
+ache License 2.0</a>
+=20
+ </li>
+ <li class=3D"psgap">
+=20
+=20
+=20
+=20
+=20
+=20
+ </li><li class=3D"psmeta">
+ <span id=3D"project_labels">
+ <b>Labels</b><br>
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:JavaScript">JavaScript</a>,=20
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:JSON">JSON</a>,=20
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:XML">XML</a>,=20
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:DOM">DOM</a>,=20
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:Mapping">Mapping</a>,=20
+=20
+ <a class=3D"label" href=3D"https://code.google.com/hosting/search?q=3Dlabe=
+l:convert">convert</a>
+=20
+ </span>
+ </li>
+ <li class=3D"psgap">
+=20
+=20
+ </li></ul>
+ <div class=3D"psicon">
+ <div class=3D"psicon-container goog-inline-block">
+ <div style=3D"float:right" class=3D"SPRITE_people-y16 goog-inline-block vt=
+"></div>
+ </div>
+ <span><b>Members</b></span>
+ </div>
+ <ul class=3D"pslist">
+=20
+=20
+=20
+=20
+
+ <a class=3D"userlink" href=3D"https://code.google.com/u/104240777330597151=
+572/">abdulla....@gmail.com</a>,=20
+=20
+=20
+
+ <a class=3D"userlink" href=3D"https://code.google.com/u/103142562850594774=
+992/">abdulla....@gmail.com</a>
+=20
+=20
+=20
+=20
+ <li class=3D"psgap">
+=20
+=20
+ </li></ul>
+=20
+=20
+ <div class=3D"phead pfeatured">Featured</div>
+=20
+ <div class=3D"psicon">
+ <div class=3D"psicon-container goog-inline-block">
+ <div style=3D"float:right" class=3D"SPRITE_filedownload-g16 goog-inline-bl=
+ock vt"></div>
+ </div>
+ <span><b>Downloads</b></span>
+ </div>
+ <ul class=3D"pslist">
+=20
+ <li class=3D"psmeta nowrap">
+ <a title=3D"Download" href=3D"https://x2js.googlecode.com/files/x2js-v1.1.=
+5.zip" onclick=3D"">
+ </a>
+ <a href=3D"https://code.google.com/p/x2js/downloads/detail?name=3Dx2js-v1.=
+1.5.zip" title=3D"x2js-v1.1.5.zip">x2js-v1.1.5.zip</a>
+ </li>
+=20
+ <li class=3D"psmeta"><a href=3D"https://code.google.com/p/x2js/downloads/l=
+ist">Show all =C2=BB</a></li>
+ <li class=3D"psgap">
+ </li></ul>
+=20
+=20
+ <div class=3D"psicon">
+ <div class=3D"psicon-container goog-inline-block">
+ <div style=3D"float:right" class=3D"SPRITE_paper_pencil-y16 goog-inline-bl=
+ock vt"></div>
+ </div>
+ <span><b>Wiki pages</b></span>
+ </div>
+ <ul class=3D"pslist nowrap">
+=20
+ <li class=3D"psmeta">
+ <a href=3D"https://code.google.com/p/x2js/wiki/BasicUsage" title=3D"Basic=
+ usage of the library.">BasicUsage</a>
+ </li>
+=20
+ <li class=3D"psmeta"><a href=3D"https://code.google.com/p/x2js/w/list">Sho=
+w all =C2=BB</a></li>
+ <li class=3D"psgap">
+ </li></ul>
+=20
+=20
+=20
+=20
+ </td>
+ <td id=3D"wikicontent" class=3D"psdescription">
+ <p>This library provides XML to JSON (JavaScript Objects) and vice versa=
+ javascript conversion functions. The library is very small and doesn't req=
+uire any other additional libraries. </p><p><strong>API functions</strong>=
+ </p><ul><li><tt>new X2JS()</tt> - to create your own instance to access al=
+l library functionality </li><ul><li><tt>new X2JS(config)</tt> - to create=
+ your own instance with additional config: </li><ul><li><tt>escapeMode : tr=
+ue|false</tt> - Escaping XML characters. Default is true from v1.1.0+ </li>=
+<li><tt>attributePrefix : "&lt;string&gt;"</tt> - Prefix for XML attributes=
+ in JSon model. Default is <tt>"_"</tt> </li><li><tt>arrayAccessForm : "non=
+e"|"property"</tt> - The array access form (none|property). Use this proper=
+ty if you want X2JS generates an additional property <tt>&lt;element&gt;_as=
+Array</tt> to access in array form for any XML element. Default is <tt>none=
+</tt> from v1.1.0+ </li><li><tt>emptyNodeForm  : "text"|"object"</tt> - Han=
+dling empty nodes (text|object) mode. When X2JS found empty node like <tt>&=
+lt;test&gt;&lt;/test&gt;</tt> it will be transformed to test : '' for 'text=
+' mode, or to Object for 'object' mode. Default is 'text' </li><li><tt>enab=
+leToStringFunc : true|false</tt> - Enable/disable an auxiliary function in=
+ generated JSON objects to print text nodes with <i></i>text/<i></i>cdata.=
+ Default is true </li><li><tt>arrayAccessFormPaths : []</tt> - Array access=
+ paths. Use this option to configure paths to XML elements always in "array=
+ form". You can configure beforehand paths to all your array elements based=
+ on XSD or your knowledge. Every path could be a simple string (like <tt>'p=
+arent.child1.child2'</tt>), a regex (like <tt>/.*\.child2/</tt>), or a cust=
+om function. Default is empty </li><li><tt>skipEmptyTextNodesForObj : true|=
+false</tt> - Skip empty text tags for nodes with children. Default is true.=
+ </li><li><tt>stripWhitespaces : true|false</tt> - Strip whitespaces (trimm=
+ing text nodes). Default is true. </li><li><tt>datetimeAccessFormPaths : []=
+</tt> -  Datetime access paths. Use this option to configure paths to XML=
+ elements for "datetime form". You can configure beforehand paths to all yo=
+ur array elements based on XSD or your knowledge. Every path could be a sim=
+ple string (like <tt>'parent.child1.child2'</tt>), a regex (like <tt>/.*\.c=
+hild2/</tt>), or a custom function. Default is empty </li></ul></ul></ul><p=
+>    	 </p><ul><li><tt>&lt;instance&gt;.xml2json</tt> - Convert XML specifi=
+ed as DOM Object to JSON </li><li><tt>&lt;instance&gt;.json2xml</tt> - Conv=
+ert JSON to XML DOM Object </li><li><tt>&lt;instance&gt;.xml_str2json</tt>=
+ - Convert XML specified as string to JSON </li><li><tt>&lt;instance&gt;.js=
+on2xml_str</tt> - Convert JSON to XML string </li><li><tt>&lt;instance&gt;.=
+asArray</tt> - Utility function for working with JSON field always in array=
+ form </li><li><tt>&lt;instance&gt;.asDateTime</tt> - Utility function for=
+ convert the specified parameter from XML DateTime to JS Date </li><li><tt>=
+&lt;instance&gt;.asXmlDateTime</tt> - Utility function for convert the spec=
+ified parameter to XML DateTime from JS Date or timestamp </li></ul><p><str=
+ong>Online demo</strong> </p><ul><li><a href=3D"http://jsfiddle.net/abdmob/=
+gtLBx/15/" rel=3D"nofollow">Demo on JSFiddle</a> </li><li><a href=3D"https:=
+//x2js.googlecode.com/hg/demo.html" rel=3D"nofollow">Demo in your browser=
+ window</a> </li></ul><p></p><p><strong>Usage samples</strong> </p><ul><li>=
+<a href=3D"https://code.google.com/p/x2js/wiki/BasicUsage">BasicUsage</a>=
+  </li><li><a href=3D"https://code.google.com/p/x2js/wiki/WorkingWithArrays=
+">WorkingWithArrays</a> </li><li><a href=3D"https://code.google.com/p/x2js/=
+wiki/WorkingWithXmlAttributes">WorkingWithXmlAttributes</a> </li><li><a hre=
+f=3D"https://code.google.com/p/x2js/wiki/WorkingWithNamespaces">WorkingWith=
+Namespaces</a> </li><li><a href=3D"https://code.google.com/p/x2js/wiki/Work=
+ingWithDateTime">WorkingWithDateTime</a> </li><li><a href=3D"https://code.g=
+oogle.com/p/x2js/wiki/NetworkingSamples">NetworkingSamples</a> </li><li><a=
+ href=3D"https://code.google.com/p/x2js/wiki/AllAvailableConfigOptions">All=
+AvailableConfigOptions</a> </li></ul><p></p><p><strong>More samples</strong=
+> </p><pre class=3D"prettyprint"><span class=3D"pln">=C2=A0 =C2=A0 </span><=
+span class=3D"com">// Create x2js instance with default config</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span=
+ class=3D"pln"> x2js </span><span class=3D"pun">=3D</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">new</span><span class=3D"pln"> X2JS</span><s=
+pan class=3D"pun">();</span><span class=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span cl=
+ass=3D"com">// JSON to DOM</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </sp=
+an><span class=3D"kwd">var</span><span class=3D"pln"> xmlDoc </span><span=
+ class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><span class=3D"pun=
+">.</span><span class=3D"pln">json2xml</span><span class=3D"pun">(</span><s=
+pan class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun=
+">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ </span><span class=3D"typ">MyRoot</span><span class=3D"pln"> </span><span=
+ class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun">{</s=
+pan><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 </span><span class=3D"typ">MyChild</span><span class=3D"pln"> </=
+span><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D=
+"str">'my_child_value'</span><span class=3D"pun">,</span><span class=3D"pln=
+"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span=
+ class=3D"typ">MyAnotherChild</span><span class=3D"pun">:</span><span class=
+=3D"pln"> </span><span class=3D"lit">10</span><span class=3D"pun">,</span><=
+span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 </span><span class=3D"typ">MyArray</span><span class=3D"pln"> </span><s=
+pan class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun">[=
+</span><span class=3D"pln"> </span><span class=3D"str">'test'</span><span=
+ class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"str">'tes=
+t2'</span><span class=3D"pln"> </span><span class=3D"pun">],</span><span cl=
+ass=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </s=
+pan><span class=3D"typ">MyArrayRecords</span><span class=3D"pln"> </span><s=
+pan class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun">[=
+</span><span class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">{</span><span class=
+=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 ttt </span><span class=3D"pun">:</span><span class=3D=
+"pln"> </span><span class=3D"str">'vvvv'</span><span class=3D"pln"> <br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><=
+span class=3D"pun">},</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun"=
+>{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 ttt </span><span class=3D"pun">:=
+</span><span class=3D"pln"> </span><span class=3D"str">'vvvv2'</span><span=
+ class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln"> =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"=
+pun">]</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln"><b=
+r>=C2=A0 =C2=A0 </span><span class=3D"pun">);</span><span class=3D"pln"><br=
+>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"co=
+m">// JSON to XML string</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span=
+><span class=3D"kwd">var</span><span class=3D"pln"> xmlDocStr </span><span=
+ class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><span class=3D"pun=
+">.</span><span class=3D"pln">json2xml_str</span><span class=3D"pun">(</spa=
+n><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D=
+"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 </span><span class=3D"typ">MyRoot</span><span class=3D"pln"> </span>=
+<span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun"=
+>{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 </span><span class=3D"typ">MyChild</span><span class=3D"pln"=
+> </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span clas=
+s=3D"str">'my_child_value'</span><span class=3D"pun">,</span><span class=3D=
+"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><s=
+pan class=3D"typ">MyAnotherChild</span><span class=3D"pln"> </span><span cl=
+ass=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"lit">10</spa=
+n><span class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyArray</spa=
+n><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pl=
+n"> </span><span class=3D"pun">[</span><span class=3D"pln"> </span><span cl=
+ass=3D"str">'test'</span><span class=3D"pun">,</span><span class=3D"pln">=
+ </span><span class=3D"str">'test2'</span><span class=3D"pln"> </span><span=
+ class=3D"pun">],</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyArrayRecords</spa=
+n><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pl=
+n"> </span><span class=3D"pun">[</span><span class=3D"pln"> <br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span cl=
+ass=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 ttt </span><span class=
+=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'vvvv'</sp=
+an><span class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">},</span><span class=3D=
+"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 ttt </span><span class=3D"pun">:</span><span class=3D"pln"> </span><spa=
+n class=3D"str">'vvvv2'</span><span class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun=
+">}</span><span class=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 </span><span class=3D"pun">]</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</spa=
+n><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D=
+"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"p=
+un">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 consol=
+e</span><span class=3D"pun">.</span><span class=3D"pln">log</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln">xmlDocStr</span><span class=3D"pun">=
+);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><sp=
+an class=3D"com">// JSON arrays to string</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"pln"> xmlDoc=
+Str </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">json2xml_str</span><span clas=
+s=3D"pun">(</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </spa=
+n><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyRoot</span=
+><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln=
+"> </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 name=
+dItemArray</span><span class=3D"pun">:</span><span class=3D"pln"> </span><s=
+pan class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 item </span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"pun">[</span><span class=3D"pln"> <br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"=
+pun">{</span><span class=3D"pln"> first</span><span class=3D"pun">:</span><=
+span class=3D"pln"> </span><span class=3D"str">'success1'</span><span class=
+=3D"pln"> </span><span class=3D"pun">}</span><span class=3D"pln"> </span><s=
+pan class=3D"pun">,</span><span class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">{</sp=
+an><span class=3D"pln"> first</span><span class=3D"pun">:</span><span class=
+=3D"pln"> </span><span class=3D"str">'success2'</span><span class=3D"pln">=
+ </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">]</span><span class=3D"=
+pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">},</span><span class=3D"pln=
+"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 namedArray</span><span class=3D"pun">:</span><span class=3D"=
+pln"> </span><span class=3D"pun">[</span><span class=3D"pln"> <br>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">{</span><span cl=
+ass=3D"pln"> first</span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"str">'success1'</span><span class=3D"pln"> </span><s=
+pan class=3D"pun">}</span><span class=3D"pln"> </span><span class=3D"pun">,=
+</span><span class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"pun">{</span><span class=3D"pln"> first</span><span class=
+=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'success2'=
+</span><span class=3D"pln"> </span><span class=3D"pun">}</span><span class=
+=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">],</span><span class=3D=
+"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 justArray</span><span class=3D"pun">:</span><span clas=
+s=3D"pln"> </span><span class=3D"pun">[</span><span class=3D"pln"> </span><=
+span class=3D"str">'just success1'</span><span class=3D"pun">,</span><span=
+ class=3D"pln"> </span><span class=3D"str">'just success2'</span><span clas=
+s=3D"pln"> </span><span class=3D"pun">],</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 arrayWithAttrs </span><span class=3D"pun">:</span><span class=3D"pl=
+n"> </span><span class=3D"pun">[</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">{</span><span class=
+=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 _test </span><span class=3D"pun">:</span><span class=3D"pln"> </span><s=
+pan class=3D"str">'successAttr'</span><span class=3D"pun">,</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 __text </span><span class=3D"pun">:</span><span class=3D"pln"> </sp=
+an><span class=3D"str">'success'</span><span class=3D"pun">,</span><span cl=
+ass=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 temp </span><span class=3D"pun">:</span><span class=3D"pln"> </span=
+><span class=3D"str">'successTemp'</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">},</span><span clas=
+s=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"=
+pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 _test </span><span class=3D"pun">:</span><span=
+ class=3D"pln"> </span><span class=3D"str">'successAttr2'</span><span class=
+=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __text </span><span class=3D"pun">:</span><=
+span class=3D"pln"> </span><span class=3D"str">'success2'</span><span class=
+=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 temp </span><span class=3D"pun">:</span><sp=
+an class=3D"pln"> </span><span class=3D"str">'successTemp2'</span><span cla=
+ss=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"pun">}</span><span class=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"pun">]</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><spa=
+n class=3D"pln"> <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun"=
+>}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"pun">)=
+;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 console</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D=
+"pun">(</span><span class=3D"pln">xmlDocStr</span><span class=3D"pun">);</s=
+pan><span class=3D"pln"> =C2=A0 =C2=A0<br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0=
+ </span><span class=3D"com">// XML string to JSON =C2=A0 =C2=A0</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span=
+ class=3D"pln"> xmlText </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> </span><span class=3D"str">"&lt;MyOperation&gt;&lt;test&gt;Success&l=
+t;/test&gt;&lt;test2&gt;&lt;item&gt;ddsfg&lt;/item&gt;&lt;item&gt;dsdgfdgfd=
+&lt;/item&gt;&lt;/test2&gt;&lt;/MyOperation&gt;"</span><span class=3D"pun">=
+;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">va=
+r</span><span class=3D"pln"> jsonObj </span><span class=3D"pun">=3D</span><=
+span class=3D"pln"> x2js</span><span class=3D"pun">.</span><span class=3D"p=
+ln">xml_str2json</span><span class=3D"pun">(</span><span class=3D"pln"> xml=
+Text </span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">log</span=
+><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=
+=3D"pun">.</span><span class=3D"typ">MyOperation</span><span class=3D"pun">=
+.</span><span class=3D"pln">test</span><span class=3D"pun">);</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"co=
+m">// Array access form examples</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">log</span=
+><span class=3D"pun">(</span><span class=3D"pln">x2js</span><span class=3D"=
+pun">.</span><span class=3D"pln">asArray</span><span class=3D"pun">(</span>=
+<span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=
+=3D"typ">MyOperation</span><span class=3D"pun">.</span><span class=3D"pln">=
+test</span><span class=3D"pun">)[</span><span class=3D"lit">0</span><span=
+ class=3D"pun">]);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span=
+ class=3D"com">// Or old style (1.0.+):</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 x2jsOld </span><span class=3D"pun">=3D</span><span class=3D"pln"=
+> </span><span class=3D"kwd">new</span><span class=3D"pln"> X2JS</span><spa=
+n class=3D"pun">({</span><span class=3D"pln">arrayAccessForm </span><span=
+ class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">"pro=
+perty"</span><span class=3D"pun">});</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 jsonObj </span><span class=3D"pun">=3D</span><span class=3D"pln">=
+ x2jsOld</span><span class=3D"pun">.</span><span class=3D"pln">xml_str2json=
+</span><span class=3D"pun">(</span><span class=3D"pln"> xmlText </span><spa=
+n class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</spa=
+n><span class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"=
+pun">(</span><span class=3D"str">"Old is "</span><span class=3D"pun">+</spa=
+n><span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=
+=3D"typ">MyOperation</span><span class=3D"pun">.</span><span class=3D"pln">=
+test_asArray</span><span class=3D"pun">[</span><span class=3D"lit">0</span>=
+<span class=3D"pun">]);</span><span class=3D"pln"><br><br>=C2=A0 =C2=A0 </s=
+pan><span class=3D"com">// XML/DOM to JSON =C2=A0 =C2=A0</span><span class=
+=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=
+=3D"pln"> xmlText </span><span class=3D"pun">=3D</span><span class=3D"pln">=
+ </span><span class=3D"str">" &lt;MyOperation&gt; &lt;test&gt;- Success -&l=
+t;/test&gt; &lt;test2&gt; TestText &lt;item&gt; ddsfg &lt;/item&gt; TestTex=
+t2 &lt;item&gt;dsdgfdgfd&lt;/item&gt;&lt;/test2&gt;&lt;/MyOperation&gt;"</s=
+pan><span class=3D"pln"><br>=C2=A0 =C2=A0 xmlDoc</span><span class=3D"pun">=
+=3D</span><span class=3D"pln">x2js</span><span class=3D"pun">.</span><span=
+ class=3D"pln">parseXmlString</span><span class=3D"pun">(</span><span class=
+=3D"pln">xmlText</span><span class=3D"pun">);</span><span class=3D"pln"><br=
+>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span=
+ class=3D"pln"> jsonObj </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> x2js</span><span class=3D"pun">.</span><span class=3D"pln">xml2json<=
+/span><span class=3D"pun">(</span><span class=3D"pln"> xmlDoc </span><span=
+ class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span=
+><span class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"p=
+un">(</span><span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><=
+span class=3D"typ">MyOperation</span><span class=3D"pun">.</span><span clas=
+s=3D"pln">test</span><span class=3D"pun">);</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"com">// Parsing XML=
+ attrs</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kw=
+d">var</span><span class=3D"pln"> xmlText </span><span class=3D"pun">=3D</s=
+pan><span class=3D"pln"> </span><span class=3D"str">"&lt;MyOperation myAttr=
+=3D'SuccessAttrValue'&gt;&lt;txtAttrChild sAttr=3D'SUCCESS TXT ATTR CHILD'&=
+gt;SUCCESS TXT&lt;/txtAttrChild&gt;&lt;test&gt;Success&lt;/test&gt;&lt;test=
+2 myAttr=3D'SuccessAttrValueTest2'&gt;&lt;item&gt;ddsfg&lt;/item&gt;&lt;ite=
+m&gt;dsdgfdgfd&lt;/item&gt;&lt;/test2&gt;&lt;/MyOperation&gt;"</span><span=
+ class=3D"pun">;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span=
+ class=3D"kwd">var</span><span class=3D"pln"> jsonObj </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> x2js</span><span class=3D"pun">.</span=
+><span class=3D"pln">xml_str2json</span><span class=3D"pun">(</span><span=
+ class=3D"pln"> xmlText </span><span class=3D"pun">);</span><span class=3D"=
+pln"><br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span clas=
+s=3D"pln">log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj=
+</span><span class=3D"pun">.</span><span class=3D"typ">MyOperation</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">_myAttr</span><span class=3D"=
+pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"pun">(</spa=
+n><span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=
+=3D"typ">MyOperation</span><span class=3D"pun">.</span><span class=3D"pln">=
+test2</span><span class=3D"pun">.</span><span class=3D"pln">_myAttr</span><=
+span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</=
+span><span class=3D"pun">.</span><span class=3D"pln">log</span><span class=
+=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=3D"pun">.</s=
+pan><span class=3D"typ">MyOperation</span><span class=3D"pun">.</span><span=
+ class=3D"pln">txtAttrChild</span><span class=3D"pun">.</span><span class=
+=3D"pln">_sAttr</span><span class=3D"pun">);</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln"=
+>log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><s=
+pan class=3D"pun">.</span><span class=3D"typ">MyOperation</span><span class=
+=3D"pun">.</span><span class=3D"pln">txtAttrChild</span><span class=3D"pun"=
+>.</span><span class=3D"pln">__text</span><span class=3D"pun">);</span><spa=
+n class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span=
+><span class=3D"pln">log</span><span class=3D"pun">(</span><span class=3D"p=
+ln">jsonObj</span><span class=3D"pun">.</span><span class=3D"typ">MyOperati=
+on</span><span class=3D"pun">.</span><span class=3D"pln">txtAttrChild</span=
+><span class=3D"pun">.</span><span class=3D"pln">toString</span><span class=
+=3D"pun">());</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0=
+ </span><span class=3D"com">// JSON to XML attrs</span><span class=3D"pln">=
+<br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"pln">=
+ xmlDocStr </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2js</=
+span><span class=3D"pun">.</span><span class=3D"pln">json2xml_str</span><sp=
+an class=3D"pun">(</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">TestAttrRoot</sp=
+an><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 _myAttr </span><span class=3D=
+"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'myAttrValue'=
+</span><span class=3D"pun">,</span><span class=3D"pln"> =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyChild</span><span cla=
+ss=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln"> </span>=
+<span class=3D"str">'my_child_value'</span><span class=3D"pun">,</span><spa=
+n class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ </span><span class=3D"typ">MyAnotherChild</span><span class=3D"pun">:</spa=
+n><span class=3D"pln"> </span><span class=3D"lit">10</span><span class=3D"p=
+un">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyTextAttrChild</span><span cl=
+ass=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln"> </span=
+><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 _myTextAttr </span><span=
+ class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'myT=
+extAttrValue'</span><span class=3D"pun">,</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __text=
+ </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=
+=3D"str">'HelloText'</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span cl=
+ass=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span clas=
+s=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </spa=
+n><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span>=
+<span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=
+=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">lo=
+g</span><span class=3D"pun">(</span><span class=3D"pln">xmlDocStr</span><sp=
+an class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0=
+ =C2=A0 </span><span class=3D"com">//Change prefix for attributes</span><sp=
+an class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><sp=
+an class=3D"pln"> x2jsChangedAttrs </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D"pln">=
+ X2JS</span><span class=3D"pun">({</span><span class=3D"pln"> =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"com">// XML attributes. Default is=
+ "_"</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 attributePre=
+fix </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span cl=
+ass=3D"str">"$"</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span cl=
+ass=3D"pun">});</span><span class=3D"pln"><br>=C2=A0 =C2=A0 jsonObj </span>=
+<span class=3D"pun">=3D</span><span class=3D"pln"> x2jsChangedAttrs</span><=
+span class=3D"pun">.</span><span class=3D"pln">xml_str2json</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln"> xmlText </span><span class=3D"pun">=
+);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D=
+"pun">.</span><span class=3D"pln">log</span><span class=3D"pun">(</span><sp=
+an class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=3D"t=
+yp">MyOperation</span><span class=3D"pun">.</span><span class=3D"pln">$myAt=
+tr</span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ console</span><span class=3D"pun">.</span><span class=3D"pln">log</span><s=
+pan class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=3D"=
+pun">.</span><span class=3D"typ">MyOperation</span><span class=3D"pun">.</s=
+pan><span class=3D"pln">test2</span><span class=3D"pun">.</span><span class=
+=3D"pln">$myAttr</span><span class=3D"pun">);</span><span class=3D"pln"><br=
+>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln=
+">log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><=
+span class=3D"pun">.</span><span class=3D"typ">MyOperation</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">txtAttrChild</span><span class=3D"pun=
+">.</span><span class=3D"pln">$sAttr</span><span class=3D"pun">);</span><sp=
+an class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 xmlDocStr </span><span=
+ class=3D"pun">=3D</span><span class=3D"pln"> x2jsChangedAttrs</span><span=
+ class=3D"pun">.</span><span class=3D"pln">json2xml_str</span><span class=
+=3D"pun">({</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 </span><span class=3D"typ">TestAttrRoot</span><span class=3D"pln=
+"> </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span cla=
+ss=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 _myAttr </span><span class=3D"pun">:</span><span=
+ class=3D"pln"> </span><span class=3D"str">'myAttrValue'</span><span class=
+=3D"pun">,</span><span class=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 </span><span class=3D"typ">MyChild</span><span class=3D"pln"> </span=
+><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str=
+">'my_child_value'</span><span class=3D"pun">,</span><span class=3D"pln"><b=
+r>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span clas=
+s=3D"typ">MyAnotherChild</span><span class=3D"pun">:</span><span class=3D"p=
+ln"> </span><span class=3D"lit">10</span><span class=3D"pun">,</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ </span><span class=3D"typ">MyTextAttrChild</span><span class=3D"pln"> </sp=
+an><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"p=
+un">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 $myTextAttr </span><span class=3D"pun">:</s=
+pan><span class=3D"pln"> </span><span class=3D"str">'myTextAttrValue'</span=
+><span class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __text </span><span class=
+=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'HelloText=
+'</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</spa=
+n><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D=
+"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"p=
+un">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 consol=
+e</span><span class=3D"pun">.</span><span class=3D"pln">log</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln">xmlDocStr</span><span class=3D"pun">=
+);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 <br>=C2=A0=
+ =C2=A0 </span><span class=3D"com">// Parse XML with namespaces</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span=
+ class=3D"pln"> xmlText </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> </span><span class=3D"str">"&lt;testns:MyOperation xmlns:testns=3D'h=
+ttp://www.example.org'&gt;&lt;test&gt;Success&lt;/test&gt;&lt;test2 myAttr=
+=3D'SuccessAttrValueTest2'&gt;&lt;item&gt;ddsfg&lt;/item&gt;&lt;item&gt;dsd=
+gfdgfd&lt;/item&gt;&lt;item2&gt;testArrSize&lt;/item2&gt;&lt;/test2&gt;&lt;=
+/testns:MyOperation&gt;"</span><span class=3D"pun">;</span><span class=3D"p=
+ln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"p=
+ln"> jsonObj </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2js=
+</span><span class=3D"pun">.</span><span class=3D"pln">xml_str2json</span><=
+span class=3D"pun">(</span><span class=3D"pln"> xmlText </span><span class=
+=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span=
+ class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"pun">(<=
+/span><span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span=
+ class=3D"typ">MyOperation</span><span class=3D"pun">.</span><span class=3D=
+"pln">test</span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 </span><span class=3D"kwd">if</span><span class=3D"pun">(</span>=
+<span class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=
+=3D"typ">MyOperation</span><span class=3D"pun">.</span><span class=3D"pln">=
+test2</span><span class=3D"pun">.</span><span class=3D"pln">item</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">length </span><span class=3D"pu=
+n">&gt;</span><span class=3D"pln"> </span><span class=3D"lit">2</span><span=
+ class=3D"pun">)</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ console</span><span class=3D"pun">.</span><span class=3D"pln">log</span><s=
+pan class=3D"pun">(</span><span class=3D"str">"Error! Incorrect array len!"=
+</span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ <br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"pln"=
+> testObjC </span><span class=3D"pun">=3D</span><span class=3D"pln"> </span=
+><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">'m:TestAttrRoot'</span><sp=
+an class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">'_tns=
+:m'</span><span class=3D"pln"> </span><span class=3D"pun">:</span><span cla=
+ss=3D"pln"> </span><span class=3D"str">'http://www.example.org'</span><span=
+ class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">'_tns:cms'</span><s=
+pan class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"str">'http://www.example.org'</span><span class=3D"p=
+un">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyChild</span><span class=3D"p=
+ln"> </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span=
+ class=3D"str">'my_child_value'</span><span class=3D"pun">,</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"str">'cms:MyAnotherChild'</span><span class=3D"pln"> </sp=
+an><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"s=
+tr">'vdfd'</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"com">// Parse JSON object=
+ with namespaces</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span=
+ class=3D"kwd">var</span><span class=3D"pln"> xmlDocStr </span><span class=
+=3D"pun">=3D</span><span class=3D"pln"> x2js</span><span class=3D"pun">.</s=
+pan><span class=3D"pln">json2xml_str</span><span class=3D"pun">(</span><spa=
+n class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 testObjC<br>=C2=A0 =C2=A0=
+ </span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ <br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D=
+"pln">log</span><span class=3D"pun">(</span><span class=3D"pln">xmlDocStr</=
+span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br=
+>=C2=A0 =C2=A0 </span><span class=3D"com">// Parse JSON object constructed=
+ with another NS-style</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><=
+span class=3D"kwd">var</span><span class=3D"pln"> testObjNew </span><span=
+ class=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"pun">{<=
+/span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </s=
+pan><span class=3D"typ">TestAttrRoot</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun">{</=
+span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 __prefix </span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"str">'m'</span><span class=3D"pun">,</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"str">'_tns:m'</span><span class=3D"pln"> </span><span cla=
+ss=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">'http://=
+www.example.org'</span><span class=3D"pun">,</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=
+=3D"str">'_tns:cms'</span><span class=3D"pln"> </span><span class=3D"pun">:=
+</span><span class=3D"pln"> </span><span class=3D"str">'http://www.example.=
+org'</span><span class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">My=
+Child</span><span class=3D"pln"> </span><span class=3D"pun">:</span><span=
+ class=3D"pln"> </span><span class=3D"str">'my_child_value'</span><span cla=
+ss=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyAnotherChild</span><s=
+pan class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln">=
+ </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __pr=
+efix </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span=
+ class=3D"str">'cms'</span><span class=3D"pun">,</span><span class=3D"pln">=
+<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 __text </span><span class=3D"pun">:</span><span class=3D"pln=
+"> </span><span class=3D"str">'vdfd'</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun=
+">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ </span><span class=3D"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ <br>=C2=A0 =C2=A0 </span><span class=3D"com">// Parse JSON object with nam=
+espaces</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"k=
+wd">var</span><span class=3D"pln"> xmlDocStr </span><span class=3D"pun">=3D=
+</span><span class=3D"pln"> x2js</span><span class=3D"pun">.</span><span cl=
+ass=3D"pln">json2xml_str</span><span class=3D"pun">(</span><span class=3D"p=
+ln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 testObjNew<br>=C2=A0 =C2=A0 </span><spa=
+n class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0=
+ =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">log</=
+span><span class=3D"pun">(</span><span class=3D"pln">xmlDocStr</span><span=
+ class=3D"pun">);</span><span class=3D"pln"><br><br>=C2=A0 =C2=A0 </span><s=
+pan class=3D"com">// Parse XML with header</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"pln"> xml=
+Text </span><span class=3D"pun">=3D</span><span class=3D"pln"> </span><span=
+ class=3D"str">"&lt;?xml version=3D'1.0' encoding=3D'utf-8' ?&gt;\n"</span>=
+<span class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </spa=
+n><span class=3D"str">"&lt;test&gt;XML HEADER SUCCESS!&lt;/test&gt;"</span>=
+<span class=3D"pun">;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=
+=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"pln"> jsonOb=
+j </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">xml_str2json</span><span class=
+=3D"pun">(</span><span class=3D"pln"> xmlText </span><span class=3D"pun">);=
+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D"p=
+un">.</span><span class=3D"pln">log</span><span class=3D"pun">(</span><span=
+ class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=3D"pln=
+">test</span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =
+=C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"com">// Parse XML with CDATA=
+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var=
+</span><span class=3D"pln"> xmlText </span><span class=3D"pun">=3D</span><s=
+pan class=3D"pln"> </span><span class=3D"str">"&lt;test&gt;&lt;simple&gt;si=
+mple success&lt;/simple&gt;&lt;data&gt;&lt;![CDATA[&lt;success/&gt;]]&gt;&l=
+t;/data&gt; &lt;/test&gt;"</span><span class=3D"pun">;</span><span class=3D=
+"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</s=
+pan><span class=3D"pln"> jsonObj </span><span class=3D"pun">=3D</span><span=
+ class=3D"pln"> x2js</span><span class=3D"pun">.</span><span class=3D"pln">=
+xml_str2json</span><span class=3D"pun">(</span><span class=3D"pln"> xmlText=
+ </span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ console</span><span class=3D"pun">.</span><span class=3D"pln">log</span><s=
+pan class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=3D"=
+pun">.</span><span class=3D"pln">test</span><span class=3D"pun">.</span><sp=
+an class=3D"pln">data</span><span class=3D"pun">.</span><span class=3D"pln"=
+>toString</span><span class=3D"pun">());</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">lo=
+g</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span=
+ class=3D"pun">.</span><span class=3D"pln">test</span><span class=3D"pun">.=
+</span><span class=3D"pln">data</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">__cdata</span><span class=3D"pun">);</span><span class=3D"pln"><=
+br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"p=
+ln">log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span=
+><span class=3D"pun">.</span><span class=3D"pln">test</span><span class=3D"=
+pun">.</span><span class=3D"pln">simple</span><span class=3D"pun">);</span>=
+<span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0=
+ </span><span class=3D"com">// Parse JSON object with CDATA</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span cla=
+ss=3D"pln"> xmlDocStr </span><span class=3D"pun">=3D</span><span class=3D"p=
+ln"> x2js</span><span class=3D"pun">.</span><span class=3D"pln">json2xml_st=
+r</span><span class=3D"pun">(</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 jsonObj<br>=C2=A0 =C2=A0 </span><span class=3D"pun">);</span=
+><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.<=
+/span><span class=3D"pln">log</span><span class=3D"pun">(</span><span class=
+=3D"pln">xmlDocStr</span><span class=3D"pun">);</span><span class=3D"pln"><=
+br><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"com">// Parse JSON=
+ with emtpy attributes =C2=A0 =C2=A0</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"kwd">var</span><span class=3D"p=
+ln"> xmlDocStr </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2=
+js</span><span class=3D"pun">.</span><span class=3D"pln">json2xml_str</span=
+><span class=3D"pun">(</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyRoot</span=
+><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=3D"pln=
+"> </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyNul=
+lChild</span><span class=3D"pln"> </span><span class=3D"pun">:</span><span=
+ class=3D"pln"> </span><span class=3D"kwd">null</span><span class=3D"pun">,=
+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 </span><span class=3D"typ">MyNullChild2</span><span class=3D"=
+pln"> </span><span class=3D"pun">:</span><span class=3D"pln"> </span><span=
+ class=3D"kwd">undefined</span><span class=3D"pun">,</span><span class=3D"p=
+ln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><spa=
+n class=3D"typ">MyAnotherChild</span><span class=3D"pln"> </span><span clas=
+s=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"lit">10</span>=
+<span class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyEmptyChild<=
+/span><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=
+=3D"pln"> </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 _attr </span><span class=3D"pun">:</span><span class=3D"pln"> </span><s=
+pan class=3D"str">"test"</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">},</span><sp=
+an class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 </span><span class=3D"typ">MyEmptyChild2</span><span class=3D"pln"> </s=
+pan><span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"=
+pun">{</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 _attr </span><span class=3D"p=
+un">:</span><span class=3D"pln"> </span><span class=3D"str">"test"</span><s=
+pan class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __text </span><=
+span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">=
+"Empty Nodes Test"</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span cl=
+ass=3D"pln"> =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span class=3D"pln=
+"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"pun">);</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 console</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"pun">(</span=
+><span class=3D"pln">xmlDocStr</span><span class=3D"pun">);</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 </span><span class=3D"com">/=
+/ Escaping XML characters</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 xmlDocStr </span><span class=3D"pun">=3D</span><span class=3D"pl=
+n"> x2js</span><span class=3D"pun">.</span><span class=3D"pln">json2xml_str=
+</span><span class=3D"pun">(</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 </span><span class=3D"pun">{</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyRoot=
+</span><span class=3D"pln"> </span><span class=3D"pun">:</span><span class=
+=3D"pln"> </span><span class=3D"pun">{</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ=
+">MyEscapeXmlChild</span><span class=3D"pln"> </span><span class=3D"pun">:<=
+/span><span class=3D"pln"> </span><span class=3D"str">"&lt;success&gt; &amp=
+; \" ' / &lt;/success&gt;"</span><span class=3D"pun">,</span><span class=3D=
+"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><s=
+pan class=3D"typ">MyEscapeXmlChild2</span><span class=3D"pln"> </span><span=
+ class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun">{</s=
+pan><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 _attr </span><span class=3D"pun">:</=
+span><span class=3D"pln"> </span><span class=3D"str">"success"</span><span=
+ class=3D"pun">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 __text </span><spa=
+n class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"str">"&l=
+t;success&gt; &amp; \" ' / &lt;/success&gt;"</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=
+=3D"pun">},</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"typ">MyEscapeXmlChildNonStri=
+ng</span><span class=3D"pln"> </span><span class=3D"pun">:</span><span clas=
+s=3D"pln"> </span><span class=3D"kwd">false</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">}</spa=
+n><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D=
+"pun">}</span><span class=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"p=
+un">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0=
+ =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">log</=
+span><span class=3D"pun">(</span><span class=3D"pln">xmlDocStr</span><span=
+ class=3D"pun">);</span><span class=3D"pln"><br><br>=C2=A0 =C2=A0 jsonObj=
+ </span><span class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><span=
+ class=3D"pun">.</span><span class=3D"pln">xml_str2json</span><span class=
+=3D"pun">(</span><span class=3D"pln"> xmlDocStr </span><span class=3D"pun">=
+);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D=
+"pun">.</span><span class=3D"pln">log</span><span class=3D"pun">(</span><sp=
+an class=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=3D"t=
+yp">MyRoot</span><span class=3D"pun">.</span><span class=3D"typ">MyEscapeXm=
+lChild</span><span class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =
+=C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">log</s=
+pan><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span cla=
+ss=3D"pun">.</span><span class=3D"typ">MyRoot</span><span class=3D"pun">.</=
+span><span class=3D"typ">MyEscapeXmlChild2</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">toString</span><span class=3D"pun">());</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 console</span>=
+<span class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"pu=
+n">(</span><span class=3D"pln">x2js</span><span class=3D"pun">.</span><span=
+ class=3D"pln">getVersion</span><span class=3D"pun">());</span><span class=
+=3D"pln"><br><br>=C2=A0 =C2=A0 </span><span class=3D"com">// Array access=
+ path demos</span><span class=3D"pln"><br>=C2=A0 =C2=A0 x2js </span><span=
+ class=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kwd">ne=
+w</span><span class=3D"pln"> X2JS</span><span class=3D"pun">({</span><span=
+ class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 arrayAccessFormPaths </span>=
+<span class=3D"pun">:</span><span class=3D"pln"> </span><span class=3D"pun"=
+>[</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<=
+/span><span class=3D"str">"MyArrays.test4.item"</span><span class=3D"pun">,=
+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0</s=
+pan><span class=3D"str">/.*\.test3\.item/</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">]</span><span class=3D"=
+pln"><br>=C2=A0 =C2=A0 </span><span class=3D"pun">});</span><span class=3D"=
+pln"><br><br>=C2=A0 =C2=A0 xmlText </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"str">"&lt;MyArrays&gt;"</span><span=
+ class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;test2&gt;&lt;i=
+tem&gt;success&lt;/item&gt;&lt;item&gt;second&lt;/item&gt;&lt;/test2&gt;"</=
+span><span class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;test=
+3&gt;&lt;item&gt;success&lt;/item&gt;&lt;/test3&gt;"</span><span class=3D"p=
+un">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;test4&gt;&lt;item&gt;succ=
+ess&lt;/item&gt;&lt;/test4&gt;"</span><span class=3D"pun">+</span><span cla=
+ss=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </sp=
+an><span class=3D"str">"&lt;test5&gt;&lt;item&gt;success&lt;/item&gt;&lt;/t=
+est5&gt;"</span><span class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;/MyArrays&gt;"</span>=
+<span class=3D"pun">;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 <br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 jsonObj </span><span class=3D"pu=
+n">=3D</span><span class=3D"pln"> x2js</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">xml_str2json</span><span class=3D"pun">(</span><span clas=
+s=3D"pln"> xmlText </span><span class=3D"pun">);</span><span class=3D"pln">=
+<br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"=
+pln">log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</spa=
+n><span class=3D"pun">.</span><span class=3D"typ">MyArrays</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">test3</span><span class=3D"pun">.</sp=
+an><span class=3D"pln">item</span><span class=3D"pun">[</span><span class=
+=3D"lit">0</span><span class=3D"pun">]);</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pln">lo=
+g</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span=
+ class=3D"pun">.</span><span class=3D"typ">MyArrays</span><span class=3D"pu=
+n">.</span><span class=3D"pln">test4</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">item</span><span class=3D"pun">[</span><span class=3D"lit">=
+0</span><span class=3D"pun">]);</span><span class=3D"pln"><br>=C2=A0 =C2=A0=
+ console</span><span class=3D"pun">.</span><span class=3D"pln">log</span><s=
+pan class=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=3D"=
+pun">.</span><span class=3D"typ">MyArrays</span><span class=3D"pun">.</span=
+><span class=3D"pln">test5</span><span class=3D"pun">.</span><span class=3D=
+"pln">item</span><span class=3D"pun">);</span><span class=3D"pln"><br><br>=
+=C2=A0 =C2=A0 </span><span class=3D"com">// Working with datetimes</span><s=
+pan class=3D"pln"><br>=C2=A0 =C2=A0 x2js </span><span class=3D"pun">=3D</sp=
+an><span class=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D=
+"pln"> X2JS</span><span class=3D"pun">({</span><span class=3D"pln"><br>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 datetimeAccessFormPaths </span><span class=3D"pun"=
+>:</span><span class=3D"pln"> </span><span class=3D"pun">[</span><span clas=
+s=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0</span><span class=3D"str">"MyDts.testds"</span><span class=3D"pu=
+n">,</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0</span><span class=3D"str">/.*\.testdt.*/</span><span class=3D"pln"><br>=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"pun">]</span><span class=
+=3D"pln"><br>=C2=A0 =C2=A0 </span><span class=3D"pun">});</span><span class=
+=3D"pln"><br><br>=C2=A0 =C2=A0 xmlText </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> </span><span class=3D"str">"&lt;MyDts&gt;"</span><spa=
+n class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;testds&gt;2002=
+-10-10T12:00:00+04:00&lt;/testds&gt;"</span><span class=3D"pun">+</span><sp=
+an class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 </span><span class=3D"str">"&lt;testdt1&gt;2002-10-10T12:00:00Z&lt;/tes=
+tdt1&gt;"</span><span class=3D"pun">+</span><span class=3D"pln"><br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str=
+">"&lt;testdt2&gt;2002-10-10T12:00:00&lt;/testdt2&gt;"</span><span class=3D=
+"pun">+</span><span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;testdc&gt;2002-10-10T1=
+2:00:00Z&lt;/testdc&gt;"</span><span class=3D"pun">+</span><span class=3D"p=
+ln"> =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 </span><span class=3D"str">"&lt;/MyDts&gt;"</span><span=
+ class=3D"pun">;</span><span class=3D"pln"><br>=C2=A0 =C2=A0 jsonObj </span=
+><span class=3D"pun">=3D</span><span class=3D"pln"> x2js</span><span class=
+=3D"pun">.</span><span class=3D"pln">xml_str2json</span><span class=3D"pun"=
+>(</span><span class=3D"pln"> xmlText </span><span class=3D"pun">);</span><=
+span class=3D"pln"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 <br>=C2=A0 =C2=A0 consol=
+e</span><span class=3D"pun">.</span><span class=3D"pln">log</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln">jsonObj</span><span class=3D"pun">.<=
+/span><span class=3D"typ">MyDts</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">testds</span><span class=3D"pun">);</span><span class=3D"pln"><b=
+r>=C2=A0 =C2=A0 console</span><span class=3D"pun">.</span><span class=3D"pl=
+n">log</span><span class=3D"pun">(</span><span class=3D"pln">jsonObj</span>=
+<span class=3D"pun">.</span><span class=3D"typ">MyDts</span><span class=3D"=
+pun">.</span><span class=3D"pln">testdt1</span><span class=3D"pun">);</span=
+><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span><span class=3D"pun">.<=
+/span><span class=3D"pln">log</span><span class=3D"pun">(</span><span class=
+=3D"pln">jsonObj</span><span class=3D"pun">.</span><span class=3D"typ">MyDt=
+s</span><span class=3D"pun">.</span><span class=3D"pln">testdt2</span><span=
+ class=3D"pun">);</span><span class=3D"pln"><br>=C2=A0 =C2=A0 console</span=
+><span class=3D"pun">.</span><span class=3D"pln">log</span><span class=3D"p=
+un">(</span><span class=3D"pln">x2js</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">asDateTime</span><span class=3D"pun">(</span><span class=3D=
+"pln"> jsonObj</span><span class=3D"pun">.</span><span class=3D"typ">MyDts<=
+/span><span class=3D"pun">.</span><span class=3D"pln">testdc </span><span=
+ class=3D"pun">));</span></pre><p><strong>Some Tips</strong> </p><ul><li>Yo=
+u can access to your JSON fields (parsed from XML) always in "array form".=
+ There are a few methods to do this: </li><ul><li>Use auxiliary function <t=
+t>x2js.asArray(&lt;property&gt;)</tt>. For example, if you received a XML=
+ file with one element, you able to access to it as: <tt>jsonObj.MyOperatio=
+n.test</tt> and <tt>x2js.asArray(jsonObj.MyOperation.test)[0]</tt> </li><li=
+>Use arrayAccessFormPaths to configure beforehand paths to already know XML=
+ elements. Path is a simple string separated with dots like <tt>"MyOperatio=
+n.test"</tt>. </li><li>Or use old style and config.arrayAccessForm =3D=3D=
+ "property" to generate additional property: <tt>&lt;fieldName&gt;_asArray<=
+/tt>.  For example, if you received a XML file with one element, you able=
+ to access to it as: <tt>jsonObj.MyOperation.test</tt> and <tt>jsonObj.MyOp=
+eration.test_asArray[0]</tt>. </li></ul></ul><p>Choose suitable field acces=
+s form based upon your knowledge or XSD. </p><ul><li>Use <tt>_</tt> for XML=
+ attributes or configure this prefix with config. </li><li>Use <tt>__prefix=
+</tt> for XML namespace prefix </li><li>XML namespaces are supported. Use=
+ <tt>__prefix</tt> or just concatenate element name with prefix in the stri=
+ngified form. There are samples available above (look at samples.html). </l=
+i><li>Use <tt>__cdata</tt> for CDATA element (<tt>toString()</tt> function=
+ is also working) </li></ul>
+ </td>
+ </tr>
+</tbody></table>
+<script src=3D"urn:snapshot-A77806CF:https://ssl.gstatic.com/codesite/ph/58=
+25124916300507488/js/prettify/prettify_core_compiled.js"></script>
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+=20
+=20
+=20
+ <script type=3D"text/javascript" src=3D"urn:snapshot-534BAD08:https://ssl.=
+gstatic.com/codesite/ph/5825124916300507488/js/ph_core.js"></script>
+=20
+=20
+=20
+=20
+</div>=20
+
+<div id=3D"footer" dir=3D"ltr">
+ <div class=3D"text">
+ <a href=3D"https://code.google.com/projecthosting/terms.html">Terms</a> -
+ <a href=3D"http://www.google.com/privacy.html">Privacy</a> -
+ <a href=3D"https://code.google.com/p/support/">Project Hosting Help</a>
+ </div>
+</div>
+ <div class=3D"hostedBy" style=3D"margin-top: -20px;">
+ <span style=3D"vertical-align: top;">Powered by <a href=3D"http://code.goo=
+gle.com/projecthosting/">Google Project Hosting</a></span>
+ </div>
+
+=20
+=20
+
+
+=20
+=20
+
+
+<div style=3D"display: none;" id=3D"menuDiv-projects-dropdown" class=3D"men=
+uDiv instance0"><div class=3D"menuCategory default"></div><div class=3D"men=
+uCategory controls"><a href=3D"http://www.google.com/accounts/ServiceLogin?=
+service=3Dcode&amp;ltmpl=3Dphosting&amp;continue=3Dhttps%3A%2F%2Fcode.googl=
+e.com%2Fp%2Fx2js%2F&amp;amp;followup=3Dhttps%3A%2F%2Fcode.google.com%2Fp%2F=
+x2js%2F" style=3D"display: block;" class=3D"menuItem">Sign in to see your=
+ favorites</a><hr class=3D"menuSeparator"><a href=3D"https://code.google.co=
+m/hosting/" style=3D"display: block;" class=3D"menuItem">Find open source=
+ projects...</a><a href=3D"https://code.google.com/hosting/createProject"=
+ style=3D"display: block;" class=3D"menuItem">Create a project...</a></div>=
+</div></body></html>
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAwFBMVEX///8CZsYBW7QBYboAVayF
+oLwDbNAEcdlrj7k6iND08+nk4dHY1slvnMk3c7uWv+VCleHw7uPRz8Le28zp5tg1YaADXsbm5NUP
+YbMXhOp+qtXR4/UFeOUEdeD6+fHr6dxTou0Rcs9xsu45a60HQpju69+/1uxCgcEBTKaltcPv9v0A
+cL2/w8AFfOvDy9UGf/DV2dQfZrMGgvXA2/WhyfDg7fqhz/rHy8fG1Nhfdp8gcsOxv9AvlfSvyuUn
+S5Cx1fcBoz58AAAAAXRSTlMAQObYZgAAAoRJREFUeF7N0tXem0AQBfCs4O5O3PVzbfv+b9VZIBQK
+5Je79pDL85/ZhYz+UV5m5mTycj9IomOaZlFyL3iNjgwI0fOd/fMZABPC8539CpRiN0GIfBrD/ccm
+ADGDvk/w0CuYPbYAz88kBILg1VD/b8Ajnm0gq8E+gCMDWQX44Q3QbwGh3DAIdpOy3wRCucDvA7vv
+x8aC1gbCNgz2u1cAgQHc7rev0AVJ2T+zfrmgAXziY/yQtPpR1YZ+a0F9BYzDpNmHdrvfPJHP+pSC
+aPdZezIzvpt9SdMkQkpQi9cImkXORp7vvoSqz8BWcRyOAcoSGgz8OtaJckjMR6ZpSqY0hQPFjuOo
+IVtQ5geAKE2P1TPJ80T3TdmyrOV47L6bCH2+OY5X9+kDgElax4T5Qja7gkARkR87agOsi2/29GRU
+QM65LI1l+aTrIncJlAsmGoCir69Wq92oylOasZi5rAkCbPjy4cJioCgPDMxxPbwGWRFDZiC2GED8
+FMCcAZF2gZDBY44teT29AqQB8MjaUd/mPQBiWpZ8ojyA5WktiQb0TwuMv1Tb1ruAL45i6XD2eLkc
+u24AfWVOMdYBfHQAzwu8dFlawRTAmL1SAFtvg3Fo2/bhZxewTN/HSxHxsese5pDNBkPWqr1dbPoB
+my0iFLvjLfarvxwW4UAb2gGIhZdcF4DmBlta1DH0RNX26ABABSBxwAC+ArsPrEqwVgLOJ5qibGlZ
+h3D9gCB4CACVA+Zwm6ofiocBwC7phxeFTde9BcX0Ot8+LPoAJuwnqvX0Ghw+Nr2gTDiH6c143qLs
+435AMR0IaQO8x/Rm8L4FRg9kT25lv6dGCyQh2d8KwdqoHdmIb2Y1+n/zG7oYcaDspQRRAAAAAElF
+TkSuQmCC
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: image/x-icon
+Content-Transfer-Encoding: base64
+Content-Location: https://ssl.gstatic.com/codesite/ph/images/phosting.ico
+
+AAABAAIAEBAAAAAAIABoBAAAJgAAACAgAAAAACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAA
+AEAEAAAAAAAAAAAAAAAAAAAAAAAA////Af///wH///8B////Af///wH///8B////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH///8By5de/794IP+/eCD/v3gg/794IP+/
+eCD/v3gg/794IP+/eCD/v3gg/794IP/HkE+/////Af///wH///8B59O7f7djAP+xWAD/sFoF/6tc
+FP+sVQD/rFUA/6xVAP+sVQD/q1wU/6hTBf+sVQD/tF8F/////wH///8B////AfTawH+9YAH/u18B
+/8uyk//IwbT/t4RQ/65dD/+sVQD/rFUA/7uyo/+wmIT/rFUA/6xVAP////8B////Af///wH02sB/
+xmUC/8ZlAv/TxK//wnw2/9PUy/+2dTr/tlwB/7FYAP+2dTX/s6ed/6xVAP+sVQD/////Af///wH/
+//8B9NrAf9BrA//Oeyb/4ebh/8pzHv/W183/vZx8/72JVP+xZyP/s2cb/8LIx/+nXB3/rFUA////
+/wH///8B////AfTawH/YcAP/3p5X/97f2f/Obw7/4NvP/86yk//RtZL/ztbV/7NhE//IycP/sH1K
+/6xVAP////8B////Af3270Hx0rO/4nYE/+J2BP/n2cT/1YY3/+Xh1v/FilH/x4tK/9Pi5f+7gkv/
+vbew/65WAP+sVQD/59O7f/3270Hws3L/53kF/+d5Bf/neQX/8Nq9/9apd//hvJL/4s+0/9fIsv/T
+nmX/xp1v/7+xov+zWgD/rFUA/6xVAP/SoXD/++bQQfGfR//tfgX/7X4F/+6YPP/qrmv/43cE/991
+BP/YcAP/0WwD/8mYYf/CezL/tlwB/65WAP/Bfz3/8ODPQf///wH99u9B+KpW//WCBv/ygAb/7X4F
+/+p7Bf/jdwT/3XME/9ZvA//MaQL/xGQC/7tfAf/JiEj//fbvQf///wH///8B////Af3270H4qlb/
+9YIG//KABv/tfgX/53kF/+F1BP/YcAP/0GsD/8ZlAv+7XwH/tlwBf////wH///8B////Af///wH/
+//8B////AfiiRL/1ggb/738G/+h6Bf/idgT/2nIE/9BrA//LaAL/wGIC/7ZcAX////8B////Af//
+/wH///8B////Af///wH///8B+KJEv/B/Bv/qewX/4nYE/9pyBP/dk0S/0IAu/71gAf/QlFd/////
+Af///wH///8B////Af///wH///8B////Af///wHzsm2/6nsF/+J2BP/srmy/////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH///8B////AfHKoH/xyqB/////Af///wH/
+//8B////Af///wH///8B////AQAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+//8AAP//AAD//wAA//8AAP//AAD//wAA//8oAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAA
+AAAAAAAAAAAA////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH/
+//8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+/wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////
+Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH369//
+wJVr/8aGQP/GhkD/xoZA/8aGQP/GhkD/xoZA/8aGQP/GhkD/xoZA/8aGQP/GhkD/xoZA/8aGQP/G
+hkD/xoZA/8aGQP/GhkD/xoZA/8aGQP/GhkD/1Kh7/////wH///8B////Af///wH///8B////Af//
+/wH///8B////Ab51L/+5agD/uWoA/7lqAP+5agD/uWoA/7lqAP+5agD/uWoA/7lqAP+5agD/uWoA
+/7lqAP+5agD/uWoA/7lqAP+5agD/uWoA/7lqAP+5agD/uWoA/7lqAP+5agD/yqBz/////wH///8B
+////Af///wH///8B////Af///wHn07v/uWoA/7ZcAf+sVQD/rFUA/6xVAP+sVQD/rFUA/6xVAP+s
+VQD/rFUA/6xVAP+sVQD/rFUA/6xVAP+sVQD/rFUA/6xVAP+sVQD/rFUA/6xVAP+sVQD/rFUA/7lq
+AP+1ZBP/////Af///wH///8B////Af///wH///8B////AefTu/+5agD/tlwB/7ZcAf+2XAH/tlwB
+/7VkE/+tbzz/qVkW/6xVAP+sVQD/rFUA/6xVAP+sVQD/rFUA/6xVAP+sVQD/qVkW/61vPP+cTxT/
+rFUA/6xVAP+sVQD/rFUA/7ZcAf////8B////Af///wH///8B////Af///wH///8B9NrA/7ZcAf/A
+YgL/tlwB/7ZcAf/GcBv/zNna/9Hh5P/Ft6j/rFUA/6xVAP+sVQD/rFUA/6xVAP+sVQD/rFUA/6xV
+AP+4rqL/ws/R/73Ew/+cTxT/rFUA/6xVAP+sVQD/rFUA/////wH///8B////Af///wH///8B////
+Af///wH02sD/wGIC/8BiAv/AYgL/wGIC/8qgc//R4eT/zNna/8CVa//AlWv/x9PV/61vPP+2XAH/
+rFUA/6xVAP+sVQD/rFUA/7WIWP+9xMP/ws/R/6V/av+sVQD/rFUA/6xVAP+sVQD/////Af///wH/
+//8B////Af///wH///8B////AfTawP/AYgL/yGYC/8BiAv/IZgL/yqBz/9Xk5//AlWv/wGIC/9PH
+sf/R4eT/sox0/7ZcAf+2XAH/tlwB/6xVAP+sVQD/rFUA/8CVa//Cz9H/pX9q/6xVAP+sVQD/rFUA
+/6xVAP////8B////Af///wH///8B////Af///wH///8B9NrA/8hmAv/IZgL/yGYC/8hmAv/UqHv/
+2efp/8CVa//IZgL/08ex/9Xk5/+yjHT/wGIC/7ZcAf+2XAH/tlwB/7ZcAf+sVQD/wJVr/8LP0f+l
+f2r/rFUA/6xVAP+sVQD/rFUA/////wH///8B////Af///wH///8B////Af///wH02sD/zmoD/85q
+A//OagP/zmoD/+fTu//c6ez/x4tb/8hmAv/Tx7H/2efp/7KMdP+2XAH/rFUA/8BiAv+2XAH/tlwB
+/6xVAP+1iFj/x9PV/7iuov+fSAD/rFUA/6xVAP+sVQD/////Af///wH///8B////Af///wH///8B
+////AfTawP/TbQP/020D/9NtA//LrI//4u7w/+Lu8P/GcBv/020D/9PHsf/c6ez/x9PV/8W3qP/F
+t6j/xbeo/7KMdP+pWRb/tlwB/7VkE//H09X/ws/R/7KMdP+fSAD/rFUA/6xVAP////8B////Af//
+/wH///8B////Af///wH///8B9NrA/9pyBP/TbQP/2nIE/+Lu8P/i7vD/y6yP/85qA//TbQP/08ex
+/+Lu8P/c6ez/3Ons/9Xk5//V5Of/0eHk/8W3qP+sVQD/tlwB/8usj//Cz9H/ws/R/59IAP+sVQD/
+rFUA/////wH///8B////Af///wH///8B////Af///wH02sD/2nIE/9pyBP/acgT/4qZl/+fx8//n
+8fP/vnUv/9pyBP/kyar/5/Hz/7KMdP/OagP/yGYC/9Soe//R4eT/0eHk/6xfHP++dS//zNna/8fT
+1f+1iFj/rFUA/6xVAP+sVQD/////Af///wH///8B////Af///wH///8B////AfTawP/gdQT/4HUE
+/+B1BP/gdQT/5Mmq/+fx8//Hi1v/4HUE/+fTu//i7vD/sox0/9NtA//OagP/xoZA/9Xk5//R4eT/
+rW88/8CVa//M2dr/uK6i/6xVAP+sVQD/rFUA/6xVAP////8B////Af///wH///8B////Af327//0
+2sD/68Sb/+V4Bf/leAX/5XgF/+V4Bf/jsnv/8fn6/9Soe//acgT/59O7/+fx8//LrI//xoZA/8aG
+QP/Ft6j/1eTn/9Hh5P+1ZBP/yqBz/8zZ2v+lf2r/tlwB/6xVAP+sVQD/rFUA/+fTu//n07v//fbv
+/////wH75tD/5XgF/+V4Bf/leAX/5XgF/+V4Bf/leAX/5XgF/++7gf/x+fr/1Kh7/9pyBP/kyar/
+5/Hz/+Lu8P/j7e3/3Ons/9nn6f/V5Of/1Kh7/8BiAv/KoHP/zNna/6V/av+2XAH/rFUA/6xVAP+s
+VQD/rFUA/6xVAP+sVQD/8ODP//fr3//rhBX/6nsF/+p7Bf/qewX/6nsF/+p7Bf/qewX/77uB//H5
++v/j7e3/yqBz/9eFMP/jsnv/47J7/+Oye//UqHv/1Kh7/9eFMP/OagP/yqBz/8fT1f/M2dr/wJVr
+/7ZcAf+2XAH/rFUA/6xVAP+sVQD/rFUA/7VkE//369//////Afvm0P/rhBX/6nsF/+p7Bf/vfwb/
+738G/+p7Bf/rhBX/8ODP//H5+v/kyar/4HUE/+B1BP/gdQT/2nIE/9pyBP/TbQP/020D/85qA//F
+t6j/zNna/9PHsf+1ZBP/tlwB/7ZcAf+sVQD/rFUA/6xVAP+1ZBP/8ODP/////wH///8B////Afvm
+0P/3mDL/738G/+9/Bv/vfwb/738G/+9/Bv/vfwb/6nsF/+p7Bf/qewX/5XgF/+V4Bf/gdQT/2nIE
+/9pyBP/TbQP/020D/85qA//IZgL/wGIC/8BiAv+2XAH/tlwB/7ZcAf+sVQD/tWQT//Dgz/////8B
+////Af///wH///8B////Af327//3mDL/9YIG//WCBv/1ggb/738G/+9/Bv/vfwb/6nsF/+p7Bf/q
+ewX/5XgF/+B1BP/gdQT/2nIE/9pyBP/TbQP/zmoD/8hmAv/IZgL/wGIC/8BiAv+2XAH/tlwB/751
+L//99u//////Af///wH///8B////Af///wH///8B////Af327//3mDL/9YIG//WCBv/1ggb/9YIG
+/+9/Bv/vfwb/6nsF/+p7Bf/leAX/5XgF/+B1BP/acgT/2nIE/9NtA//OagP/zmoD/8hmAv/AYgL/
+wGIC/7ZcAf+2XAH//fbv/////wH///8B////Af///wH///8B////Af///wH///8B////Af327//3
+mDL/9YIG//WCBv/1ggb/9YIG/+9/Bv/vfwb/6nsF/+p7Bf/leAX/4HUE/+B1BP/acgT/020D/9Nt
+A//OagP/yGYC/8BiAv/AYgL/tlwB/7ZcAf////8B////Af///wH///8B////Af///wH///8B////
+Af///wH///8B////Af327//3mDL/9YIG//WCBv/1ggb/738G/+9/Bv/vfwb/6nsF/+V4Bf/leAX/
+4HUE/9pyBP/acgT/020D/85qA//IZgL/yGYC/8BiAv+2XAH/tlwB/////wH///8B////Af///wH/
+//8B////Af///wH///8B////Af///wH///8B////Af///wH6smT/9YIG//WCBv/1ggb/738G/+9/
+Bv/qewX/5XgF/+V4Bf/gdQT/2nIE/9pyBP/TbQP/zmoD/85qA//IZgL/wGIC/8BiAv+2XAH/////
+Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH6smT/
+9YIG//WCBv/vfwb/738G/+p7Bf/qewX/5XgF/+B1BP/acgT/2nIE/9NtA//OagP/zmoD/8hmAv/A
+YgL/wGIC/7ZcAf////8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+/wH///8B////Af///wH6smT/9YIG/+9/Bv/vfwb/6nsF/+p7Bf/leAX/4HUE/9pyBP/acgT/020D
+/+KmZf/GcBv/yGYC/8BiAv/AYgL/tWQT/////wH///8B////Af///wH///8B////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH6smT/9YIG/+9/Bv/qewX/6nsF/+V4Bf/g
+dQT/2nIE/9pyBP/ipmX/////AevEm//IZgL/wGIC/7ZcAf/rxJv/////Af///wH///8B////Af//
+/wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH1zKH/738G
+/+p7Bf/qewX/5XgF/+B1BP/acgT/9cyh/////wH///8B////Af///wH///8B////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH/
+//8B////Af///wH1zKH/6nsF/+p7Bf/leAX/4HUE//XMof////8B////Af///wH///8B////Af//
+/wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////
+Af///wH///8B////Af///wH///8B////Af///wH02sD/77uB/++7gf/02sD/////Af///wH///8B
+////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH/
+//8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+/wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////
+AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAA
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-1FBA7E62:https://ssl.gstatic.com/codesite/ph/5825124916300507488/css/core.css
+
+/* Effective stylesheet produced by snapshot save */
+body { background: rgb(255, 255, 255) none repeat scroll 0% 0%; font: 82%=
+ arial,sans-serif; margin: 3px 0px; min-width: 768px; }
+.headbg { margin: 0px 8px; }
+a:link, a:focus { color: rgb(0, 0, 204); }
+a:active { color: red; }
+select, input { font-family: arial,sans-serif; }
+input[type=3D"text"] { border-color: rgb(153, 153, 153) rgb(204, 204, 204)=
+ rgb(204, 204, 204); border-style: solid; border-width: 1px; padding: 2px=
+ 1px; }
+input[type=3D"button"], input[type=3D"submit"], .buttonify { font-size: 100=
+%; background: transparent -moz-linear-gradient(center top , rgb(255, 255,=
+ 255), rgb(221, 221, 221)) repeat scroll 0% 0%; vertical-align: baseline;=
+ padding: 1px 3px; border-width: 1px; border-style: solid; border-color: rg=
+b(204, 204, 204) rgb(170, 170, 170) rgb(136, 136, 136); -moz-border-top-col=
+ors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none;=
+ -moz-border-left-colors: none; border-image: none; border-radius: 3px; cur=
+sor: pointer; text-decoration: none; }
+input[type=3D"button"]:hover, input[type=3D"submit"]:hover, .buttonify:hove=
+r { border-color: rgb(102, 102, 102); text-decoration: none ! important; }
+.mode_button_active, .buttonify:active, input[type=3D"button"]:active, inpu=
+t[type=3D"submit"]:active { background: transparent -moz-linear-gradient(ce=
+nter top , rgb(227, 227, 227), rgb(249, 249, 249)) repeat scroll 0% 0%; bor=
+der-color: rgb(170, 170, 170); }
+pre { font-size: 110%; }
+form { padding: 0px; margin: 0px; }
+.gtb { background: rgb(235, 239, 249) none repeat scroll 0% 0%; border-bott=
+om: 1px solid rgb(107, 144, 218); padding: 5px 10px 0px 5px; white-space:=
+ nowrap; }
+.gtb .tab { color: rgb(0, 0, 204); cursor: pointer; float: left; margin: 5p=
+x 15px 6px 10px; }
+.gtb .active { background: rgb(255, 255, 255) none repeat scroll 0% 0%; bor=
+der-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(1=
+07, 144, 218) rgb(107, 144, 218) -moz-use-text-color; -moz-border-top-color=
+s: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none;=
+ -moz-border-left-colors: none; border-image: none; color: rgb(0, 0, 0); cu=
+rsor: default; font-weight: bold; margin: 0px 5px -1px 0px; padding: 5px 9p=
+x 6px; text-decoration: none; }
+.gtb .gtbc { clear: left; }
+.subt { background: transparent -moz-linear-gradient(center top , rgb(255,=
+ 255, 255), rgb(241, 241, 241)) repeat scroll 0% 0%; border-bottom: 1px sol=
+id rgb(204, 204, 204); padding: 0px 0px 0px 14px; height: 33px; }
+table { border-collapse: separate; }
+.bevel-left, .bevel-right { padding: 0px; }
+#maincol { padding: 3px; background: rgb(255, 255, 255) none repeat scroll=
+ 0% 0%; }
+.isf a, .at a, .isf a:visited, .at a:visited { color: rgb(0, 0, 204); text-=
+decoration: none; }
+.isf a:hover, .at a:hover { color: rgb(0, 0, 204); text-decoration: underli=
+ne; }
+.st1 .inst1 a, .st2 .inst2 a, .st3 .inst3 a, .st4 .inst4 a, .st5 .inst5 a,=
+ .st6 .inst6 a, .st7 .inst7 a, .st8 .inst8 a, .st9 .inst9 a { color: rgb(0,=
+ 0, 0); font-weight: bold; text-decoration: none; height: 20px; }
+.gbh { border-top: 1px solid rgb(201, 215, 241); font-size: 1px; height: 0p=
+x; position: absolute; top: 24px; width: 100%; }
+#plogo { width: 55px; text-align: center; vertical-align: bottom; }
+#pname { font-size: 300%; margin: 0px; padding: 0px; }
+#pname a, #pname a:visited { text-decoration: none; color: rgb(102, 102, 10=
+2); }
+#project_summary_link { text-decoration: none; color: rgb(68, 68, 68); }
+.vt { vertical-align: top; }
+img { border: 0px none; }
+#gaia { text-align: right; margin-bottom: 10px; }
+#gaia a { color: rgb(0, 0, 204); text-decoration: none; }
+#footer { clear: both; text-align: center; margin-top: 3.5em; margin-bottom=
+: 1em; height: 53px; background-repeat: no-repeat; background-position: lef=
+t center; }
+#footer .text { padding-top: 20px; }
+.label { text-decoration: none; color: green ! important; }
+.label:hover { text-decoration: underline; }
+input { padding-left: 1px; padding-right: 1px; }
+.menuDiv { margin-top: 5px; border-color: rgb(201, 215, 241) rgb(51, 102,=
+ 204) rgb(51, 102, 204) rgb(162, 186, 231); border-style: solid; border-wid=
+th: 1px; z-index: 1001; padding: 0px; width: 175px; background: rgb(255, 25=
+5, 255) none repeat scroll 0% 0%; overflow: hidden; }
+.menuDiv .menuItem { color: rgb(0, 0, 204); padding: 3px; text-decoration:=
+ none; background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+.menuDiv .menuItem:hover { color: rgb(255, 255, 255); background: rgb(51,=
+ 102, 204) none repeat scroll 0% 0%; }
+.menuDiv .menuCategory, .menuDiv .categoryTitle { margin-top: 4px; }
+.menuDiv .menuSeparator { margin: 0px 0.5em; border-width: 1px 0px 0px; bor=
+der-style: solid none none; border-color: rgb(201, 215, 241) -moz-use-text-=
+color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-=
+colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: non=
+e; border-image: none; }
+.hostedBy { text-align: center; }
+.userlink { white-space: nowrap; }
+html > body .goog-inline-block { display: inline-block; }
+.goog-inline-block { position: relative; display: inline-block; }
+:first-child + html .goog-inline-block { display: inline; }
+.SPRITE_filedownload-g16 { background: transparent url("https://ssl.gstatic=
+.com/codesite/ph/5825124916300507488/css/sprite.png") no-repeat scroll -14p=
+x -16px; width: 16px; height: 16px; }
+.SPRITE_paper_pencil-y16 { background: transparent url("https://ssl.gstatic=
+.com/codesite/ph/5825124916300507488/css/sprite.png") no-repeat scroll -164=
+px 0px; width: 16px; height: 16px; }
+.SPRITE_people-y16 { background: transparent url("https://ssl.gstatic.com/c=
+odesite/ph/5825124916300507488/css/sprite.png") no-repeat scroll -79px 0px;=
+ width: 16px; height: 16px; }
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://ssl.gstatic.com/codesite/ph/5825124916300507488/css/sprite.png
+
+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
+QmCC
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-CAE597D2:https://ssl.gstatic.com/codesite/ph/5825124916300507488/css/ph_detail.css
+
+/* Effective stylesheet produced by snapshot save */
+#wikicontent ul, #wikipreview ul, #wikicontent ol, #wikipreview ol { paddin=
+g-left: 25px; max-width: 62em; }
+#wikicontent li, #wikipreview li { margin-bottom: 0.3em; }
+#wikicontent p, #wikipreview p { line-height: 1.25em; max-width: 64em; }
+a.section_anchor::before { content: "=C2=B6"; }
+#wikicontent code, tt, #wikicontent pre, #wikipreview code, tt, #wikiprevie=
+w pre { font-family: Monaco,"DejaVu Sans Mono","Bitstream Vera Sans Mono","=
+Lucida Console",monospace; font-size: 93%; max-width: 66em; }
+pre.prettyprint { padding: 0.5em; overflow: auto; font-family: Monaco,"Deja=
+Vu Sans Mono","Bitstream Vera Sans Mono","Lucida Console",monospace; font-s=
+ize: 93%; }
+#wikicontent pre.prettyprint, #wikipreview pre.prettyprint { background-col=
+or: rgb(238, 238, 238); max-width: 70em; }
+.prettyprint .str { color: rgb(0, 136, 0); }
+.prettyprint .kwd { color: rgb(0, 0, 136); }
+.prettyprint .com { color: rgb(136, 0, 0); }
+.prettyprint .typ { color: rgb(102, 0, 102); }
+.prettyprint .lit { color: rgb(0, 102, 102); }
+.prettyprint .pun { color: rgb(102, 102, 0); }
+.prettyprint .pln { color: rgb(0, 0, 0); }
+@media print {
+  .prettyprint .str { color: rgb(0, 102, 0); }
+  .prettyprint .kwd { color: rgb(0, 0, 102); font-weight: bold; }
+  .prettyprint .com { color: rgb(102, 0, 0); font-style: italic; }
+  .prettyprint .typ { color: rgb(68, 0, 68); font-weight: bold; }
+  .prettyprint .lit { color: rgb(0, 68, 68); }
+  .prettyprint .pun { color: rgb(68, 68, 0); }
+  .prettyprint .pln { color: rgb(0, 0, 0); }
+}
+.pscolumnl { min-width: 15em; border-right: 2px solid rgb(233, 233, 233);=
+ }
+.pscontent { width: 100%; vertical-align: top; }
+.psicon { padding-left: 5px; padding-top: 5px; }
+.psdescription { padding: 0px 10px ! important; width: 100%; }
+.pslist { list-style-type: none; padding-left: 34px; margin: 0px; }
+.phead { background-color: rgb(229, 237, 249); font-weight: bold; height:=
+ 15px; margin: 5px 5px 4px; padding: 3px 6px; white-space: nowrap; }
+.pfeatured { background-color: rgb(221, 248, 204); }
+.psmeta { margin: 0px 5px 0px 0px; padding: 0px; }
+.psgap { height: 1em; }
+.nowrap { white-space: nowrap; }
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-4F973DA1:https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.zh_TW.WSSCmKMZI-4.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AGLTcCNfuCkfDzay1Rkyq8vQrPQMJKBRuQ/t=zcms/cb=gapi.loaded_0
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D38F766E:https://apis.google.com/js/plusone.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-8AD20C2C:https://ssl.google-analytics.com/ga.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A77806CF:https://ssl.gstatic.com/codesite/ph/5825124916300507488/js/prettify/prettify_core_compiled.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-534BAD08:https://ssl.gstatic.com/codesite/ph/5825124916300507488/js/ph_core.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_4AA92EB5.D65F84F9--
